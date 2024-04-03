@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHEBAS95
-- 👀 I’m interested in learn Javascrit and java in this moment
-- 🌱 I’m currently learning web develoment but i want work in backend
+- 👀 I’m interested in learn Javascrit ,i will be a expert on javascript
+- 🌱 I’m currently learning web develoment
 - 💞️ I’m looking to collaborate on small proyects while 
 - 📫 How to reach me whit the e-mail sebaszzpinosa@gmail.com
 
